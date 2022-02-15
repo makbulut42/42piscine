@@ -1,0 +1,10 @@
+Credentials cache: API:76A664BA-6FF2-4287-A902-C56DA44AD883
+        Principal: makbulut@42ISTANBUL.COM.TR
+
+  Issued                Expires               Principal
+Oct 18 17:43:13 2021  Oct 19 03:43:13 2021  krbtgt/42ISTANBUL.COM.TR@42ISTANBUL.COM.TR
+Credentials cache: API:8259CC13-6D60-46E2-934F-5CD379E21DB2
+        Principal: makbulut@42ISTANBUL.COM.TR
+
+  Issued                Expires               Principal
+Oct 22 23:32:07 2021  Oct 23 09:32:07 2021  krbtgt/42ISTANBUL.COM.TR@42ISTANBUL.COM.TR
